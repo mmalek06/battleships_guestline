@@ -16,8 +16,8 @@ also horizontally, I would rather use some ready-made library for drawing the UI
 
 I didn't unit test the Components folder mostly because I felt like I've spent a lot of time writing this app already and it's way more
 important to check if the other parts work well.<br />
-I've left some somments in the RandomPlacementOpponentTests. One time I've been writing a Unity-based game, just for fun, and trying to 
-test it also resulted in the creation of a lot of testing code that was so complex, that it could use being unit tested on its own.
+I've left some comments in the RandomPlacementOpponentTests. Some time ago I've been writing a Unity-based game, just for fun, and trying to 
+test it also resulted in the creation of test code that was so complex, that it could be unit tested on its own.
 
 # Compiling it and running it
 
